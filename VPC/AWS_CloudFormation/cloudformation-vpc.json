@@ -1,0 +1,10 @@
+{
+	"Resources": {
+		"EC2VPC4YFVN": {
+			"Type": "AWS::EC2::VPC",
+			"Properties": {
+				"CidrBlock": "10.0.1.0/26"
+			}
+		}
+	}
+}
