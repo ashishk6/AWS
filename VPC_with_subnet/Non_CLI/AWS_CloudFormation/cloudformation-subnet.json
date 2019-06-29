@@ -1,0 +1,11 @@
+{
+    "Resources": {
+        "EC2S29ICY": {
+            "Type": "AWS::EC2::Subnet",
+            "Properties": {"CidrBlock" : "10.0.1.128/28",
+                "VpcId": 
+                     "vpc-01b29e84638fbd05a                    "}
+        
+    }
+}
+}
